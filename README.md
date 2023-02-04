@@ -10,4 +10,4 @@
 HTML, CSS, JavaScript
 
 ## Github Pages
-limassola.github.io/Board/
+https://limassola.github.io/Board/
