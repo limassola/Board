@@ -8,3 +8,6 @@
 
 ## Стэк технологий 
 HTML, CSS, JavaScript
+
+## Github Pages
+limassola.github.io/Board/
